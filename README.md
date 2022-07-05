@@ -7,8 +7,8 @@ _A Collection of Resources for the AWS DeepRacer Student League_
 
 - [Official Resources](#official-resources)
 - [Community Resources](#community-resources)
-- [Contributing](#contributing)
 - [Miscellaneous](#miscellaneous)
+- [Contributing](#contributing)
 
 
 ## Official Resources
@@ -19,16 +19,28 @@ _A Collection of Resources for the AWS DeepRacer Student League_
 
 ## Community Resources
 
-- [DeepRacer Blog](https://blog.deepracing.io/) - DeepRacing.Io Blog
-- [DeepRacer Wiki](https://wiki.deepracing.io/Main_Page) - DeepRacing.Io's DeepRacer Wiki Knowledgebase
-- [DeepRacer Community](https://deepracing.io/) - AWS DeepRacer Community Official Website
-- [DeepRacer Discord](https://discord.com/invite/G72rNQmJRg) - AWS DeepRacer Community Official Discord
-- [DeepRacer Slack](https://aws-ml-community.slack.com/join/shared_invite/zt-ovapd436-0_0Hfv9z8i7IvqjFomw59w#/shared-invite/email) - AWS DeepRacer Community Official Slack
+- [DeepRacer Blog](https://blog.deepracing.io/) - DeepRacing.Io Blog.
+- [DeepRacer Community](https://deepracing.io/) - AWS DeepRacer Community Official Website.
+- [DeepRacer Discord](https://discord.com/invite/G72rNQmJRg) - AWS DeepRacer Community Official Discord.
+- [DeepRacer Slack](https://aws-ml-community.slack.com/join/shared_invite/zt-ovapd436-0_0Hfv9z8i7IvqjFomw59w#/shared-invite/email) - AWS DeepRacer Community Official Slack.
+- [DeepRacer Wiki](https://wiki.deepracing.io/Main_Page) - DeepRacing.Io's DeepRacer Wiki Knowledgebase.
+
+
+## Tutorials
+
+[TODO] - How to train a model.
+[TODO] - Reward functions.
+[TODO] - How to submit a model.
+
+
+## Interesting Articles
+
+[TODO]
 
 
 ## Miscellaneous
 
-- [AWS AI & ML Scholarship Program](https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program) - AWS AI & ML Scholarship Program
+- [AWS AI & ML Scholarship Program](https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program) - AWS AI & ML Scholarship Program.
 
 
 ## Contributing
