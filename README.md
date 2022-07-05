@@ -28,9 +28,9 @@ _A Collection of Resources for the AWS DeepRacer Student League_
 
 ## Tutorials
 
-[TODO] - How to train a model.
-[TODO] - Reward functions.
-[TODO] - How to submit a model.
+- [TODO] - How to train a model.
+- [TODO] - Reward functions.
+- [TODO] - How to submit a model.
 
 
 ## Interesting Articles
